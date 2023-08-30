@@ -11,6 +11,7 @@ export const HeaderWrapper = styled.div`
   justify-content: space-between;
   align-items: center;
   padding: 0px 10px;
+  margin: 20px 60px;
 
   .logo {
     width: 100px;
