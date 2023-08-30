@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="186" height="111" viewBox="0 0 186 111">
+  <defs>
+    <filter id="Rectangle_13" x="0" y="0" width="109" height="111" filterUnits="userSpaceOnUse">
+      <feOffset dy="8" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#ff6209" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_105" data-name="Group 105" transform="translate(-262 -9)">
+    <g id="Group_21" data-name="Group 21">
+      <g transform="matrix(1, 0, 0, 1, 262, 9)" filter="url(#Rectangle_13)">
+        <path id="Rectangle_13-2" data-name="Rectangle 13" d="M24.5,0H42.14A6.86,6.86,0,0,1,49,6.86V26.5A24.5,24.5,0,0,1,24.5,51h0A24.5,24.5,0,0,1,0,26.5v-2A24.5,24.5,0,0,1,24.5,0Z" transform="translate(30 22)" fill="#ff3209"/>
+      </g>
+      <g id="Grocery_Store" data-name="Grocery Store" transform="translate(305 44)">
+        <path id="Path_1" data-name="Path 1" d="M1.014,1A1.029,1.029,0,0,0,0,2.043,1.029,1.029,0,0,0,1.014,3.087h1.8a.705.705,0,0,1,.667.495L6.829,13.9a2.615,2.615,0,0,1,.053,1.421l-.275,1.135a2.681,2.681,0,0,0,2.519,3.322H21.3a1.044,1.044,0,0,0,0-2.087H9.126a.56.56,0,0,1-.553-.728l.208-.853a.653.653,0,0,1,.63-.506H20.281a1.017,1.017,0,0,0,.963-.713l2.7-8.348a1.039,1.039,0,0,0-.963-1.374H6.647a.705.705,0,0,1-.667-.495L5.019,1.713A1.017,1.017,0,0,0,4.056,1Zm7.1,19.826a2.088,2.088,0,1,0,2.028,2.087A2.058,2.058,0,0,0,8.112,20.826Zm12.169,0a2.088,2.088,0,1,0,2.028,2.087A2.058,2.058,0,0,0,20.281,20.826Z" transform="translate(0 0)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="RiteShop" transform="translate(361 65)" fill="#3e3636" font-size="20" font-family="DunbarTall-Medium, Dunbar Tall" font-weight="500"><tspan x="0" y="0">RiteShop</tspan></text>
+  </g>
+</svg>
