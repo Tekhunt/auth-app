@@ -1,8 +1,30 @@
-# React + Vite
+# Auth-app - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the frontend repository of [Auth-app]. This part of the project is responsible for the user interface and interaction using React.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To get started with the frontend part of the project, follow these steps:
+
+1. Clone this repository (SSH): `git clone [git@github.com:Tekhunt/auth-app.git]`
+2. Clone this repository (HTTPS): `git clone [https://github.com/Tekhunt/auth-app.git]`
+3. Navigate to the project directory: `cd [auth-app]`
+4. Install dependencies: `npm install`
+5. Start the development server: `npm run dev`
+
+The frontend will run on `http://localhost:5173` by default.
+
+## Features
+
+- User registration and login interfaces
+- User-friendly authentication flow
+- Interaction with the Django backend for authentication
+- Stylish and responsive UI using CSS, styled-components and tailwind
+- JWT token management and usage
+
+## Usage
+
+- Navigate to the registration page to create a new account.
+- Use the login page to authenticate with existing credentials.
+- Access homepage routes once logged in.
+- Explore the components and states to understand the authentication flow.
