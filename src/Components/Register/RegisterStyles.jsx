@@ -55,6 +55,8 @@ export const RegBody = styled.div`
   .or {
     text-align: center;
     margin-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    font-weight: 600;
   }
 
   .icons-wrapper {

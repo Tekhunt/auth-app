@@ -6,17 +6,18 @@
   list-style-type: none;
 } */
 
+
+
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   list-style-type: none;
   text-decoration: none;
-  font-family: "Roboto";
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* font-family: "Roboto"; */
   font-style: normal;
   text-decoration: none;
-  /* background-color: #e2e4e7; */
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;700&display=swap')
-
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;700&display=swap') */
